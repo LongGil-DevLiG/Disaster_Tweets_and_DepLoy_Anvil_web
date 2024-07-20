@@ -1,7 +1,7 @@
 # Disaster_Tweets_with_Anvil
 Classify Tweets as disasters or not and DEPLOY
 
-***Input : Disaster tweets dataset
+***Input : Tweets dataset
 
 ***Output : Disaster Tweet or Non-Disaster Tweet
 
