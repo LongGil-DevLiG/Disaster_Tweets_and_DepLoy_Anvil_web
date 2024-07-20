@@ -7,7 +7,7 @@ Classify Tweets as disasters or not and DEPLOY
 
 
 
-
+Dataset and Reference: https://www.kaggle.com/datasets/vstepanenko/disaster-tweets
 
 ***You can run the code on google colab if you want to deploy to the Anvil web (https://anvil.works/)
 
