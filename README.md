@@ -1,8 +1,15 @@
 # Disaster_Tweets_with_Anvil
 Classify Tweets as disasters or not and DEPLOY
 
-***You can run the code on google colab if you want to deploy to the Anvil web
+***Input : Disaster tweets dataset
 
+***Output : Disaster Tweet or Non-Disaster Tweet
+
+
+
+
+
+***You can run the code on google colab if you want to deploy to the Anvil web (https://anvil.works/)
 
 Anvil is a platform that allows you to build web applications using only Python. It offers several advantages, including:
 
